@@ -20,13 +20,19 @@
       
         <tags>
             
-            <tag> hexo </tag>
+            <tag> Spring </tag>
             
-            <tag> qq </tag>
+            <tag> Mybatis </tag>
             
-            <tag> github </tag>
+            <tag> Dubbo </tag>
             
-            <tag> 基础 </tag>
+            <tag> Spring Cloud </tag>
+            
+            <tag> redis </tag>
+            
+            <tag> Elasticsearch </tag>
+            
+            <tag> rabbitmq </tag>
             
         </tags>
       
