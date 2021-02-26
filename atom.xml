@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>祥祥要起飞</title>
+  
+  <subtitle>Stay Hungry . Stay Foolish</subtitle>
+  <link href="https://fate-re-zero.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://fate-re-zero.github.io/"/>
+  <updated>2021-02-26T05:43:51.088Z</updated>
+  <id>https://fate-re-zero.github.io/</id>
+  
+  <author>
+    <name>祥祥要起飞</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>李祥，My First Blog</title>
+    <link href="https://fate-re-zero.github.io/2021/02/24/%E6%9D%8E%E7%A5%A5%EF%BC%8CMy-First-Blog/"/>
+    <id>https://fate-re-zero.github.io/2021/02/24/%E6%9D%8E%E7%A5%A5%EF%BC%8CMy-First-Blog/</id>
+    <published>2021-02-24T05:57:17.000Z</published>
+    <updated>2021-02-26T05:43:51.088Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;stay hungry stay</summary>
+        
+      
+    
+    
+    
+    <category term="搭建博客" scheme="https://fate-re-zero.github.io/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="Spring" scheme="https://fate-re-zero.github.io/tags/Spring/"/>
+    
+    <category term="Mybatis" scheme="https://fate-re-zero.github.io/tags/Mybatis/"/>
+    
+    <category term="Dubbo" scheme="https://fate-re-zero.github.io/tags/Dubbo/"/>
+    
+    <category term="Spring Cloud" scheme="https://fate-re-zero.github.io/tags/Spring-Cloud/"/>
+    
+    <category term="redis" scheme="https://fate-re-zero.github.io/tags/redis/"/>
+    
+    <category term="Elasticsearch" scheme="https://fate-re-zero.github.io/tags/Elasticsearch/"/>
+    
+    <category term="rabbitmq" scheme="https://fate-re-zero.github.io/tags/rabbitmq/"/>
+    
+  </entry>
+  
+</feed>
