@@ -1,44 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>李祥，My First Blog</title>
-      <link href="2021/02/24/%E6%9D%8E%E7%A5%A5%EF%BC%8CMy-First-Blog/"/>
-      <url>2021/02/24/%E6%9D%8E%E7%A5%A5%EF%BC%8CMy-First-Blog/</url>
-      
-        <content type="html"><![CDATA[<p>stay hungry stay foolish</p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>李祥，My First Blog</title>
+    <url>/2021/02/24/%E6%9D%8E%E7%A5%A5%EF%BC%8CMy-First-Blog/</url>
+    <content><![CDATA[<p>stay hungry stay foolish</p>
+]]></content>
       <categories>
-          
-          <category> 搭建博客 </category>
-          
+        <category>搭建博客</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> Spring </tag>
-            
-            <tag> Mybatis </tag>
-            
-            <tag> Dubbo </tag>
-            
-            <tag> Spring Cloud </tag>
-            
-            <tag> redis </tag>
-            
-            <tag> Elasticsearch </tag>
-            
-            <tag> rabbitmq </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>Spring</tag>
+        <tag>Mybatis</tag>
+        <tag>Dubbo</tag>
+        <tag>Spring Cloud</tag>
+        <tag>redis</tag>
+        <tag>Elasticsearch</tag>
+        <tag>rabbitmq</tag>
+      </tags>
+  </entry>
 </search>
