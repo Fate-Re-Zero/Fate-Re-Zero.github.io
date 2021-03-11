@@ -68,6 +68,24 @@
 ]]></content>
   </entry>
   <entry>
+    <title>李祥，My First Blog</title>
+    <url>/2021/02/24/%E6%9D%8E%E7%A5%A5%EF%BC%8CMy-First-Blog/</url>
+    <content><![CDATA[<p>stay hungry stay foolish</p>
+]]></content>
+      <categories>
+        <category>搭建博客</category>
+      </categories>
+      <tags>
+        <tag>Spring</tag>
+        <tag>Mybatis</tag>
+        <tag>Dubbo</tag>
+        <tag>Spring Cloud</tag>
+        <tag>redis</tag>
+        <tag>Elasticsearch</tag>
+        <tag>rabbitmq</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>工厂 + 策略 + 模板方法模式实际应用场景</title>
     <url>/2021/02/17/%E5%B7%A5%E5%8E%82-%E7%AD%96%E7%95%A5-%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF/</url>
     <content><![CDATA[<p>问题场景：项目中需要实现PC端和APP端推广二维码的功能，其实采用一种简单的实现方式就是使用if-else判断是使用PC端还APP端的逻辑，这种做法虽然可以实现，但是如果再加上Mac端，H5端等等就需要在原代码上添加很多的if,代码看起来很不优雅而且修改了原代码，基于对修改关闭对扩展开放的原则，我使用了工厂模式 + 策略模式 + 模板方法模式来实现这一场景。</p>
@@ -88,24 +106,6 @@
       </categories>
       <tags>
         <tag>设计模式</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>李祥，My First Blog</title>
-    <url>/2021/02/24/%E6%9D%8E%E7%A5%A5%EF%BC%8CMy-First-Blog/</url>
-    <content><![CDATA[<p>stay hungry stay foolish</p>
-]]></content>
-      <categories>
-        <category>搭建博客</category>
-      </categories>
-      <tags>
-        <tag>Spring</tag>
-        <tag>Mybatis</tag>
-        <tag>Dubbo</tag>
-        <tag>Spring Cloud</tag>
-        <tag>redis</tag>
-        <tag>Elasticsearch</tag>
-        <tag>rabbitmq</tag>
       </tags>
   </entry>
 </search>
