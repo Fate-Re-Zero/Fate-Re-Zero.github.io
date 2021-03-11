@@ -6,7 +6,7 @@
   <link href="https://fate-re-zero.github.io/atom.xml" rel="self"/>
   
   <link href="https://fate-re-zero.github.io/"/>
-  <updated>2021-02-26T05:43:51.088Z</updated>
+  <updated>2021-03-11T02:07:14.599Z</updated>
   <id>https://fate-re-zero.github.io/</id>
   
   <author>
@@ -15,6 +15,87 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>article_name</title>
+    <link href="https://fate-re-zero.github.io/2021/03/11/article-name/"/>
+    <id>https://fate-re-zero.github.io/2021/03/11/article-name/</id>
+    <published>2021-03-11T01:59:28.000Z</published>
+    <updated>2021-03-11T02:07:14.599Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Spring IOC原理及源码学习</title>
+    <link href="https://fate-re-zero.github.io/2021/03/10/Spring-IOC%E5%8E%9F%E7%90%86%E5%8F%8A%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://fate-re-zero.github.io/2021/03/10/Spring-IOC%E5%8E%9F%E7%90%86%E5%8F%8A%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/</id>
+    <published>2021-03-10T04:11:15.000Z</published>
+    <updated>2021-03-10T04:11:15.930Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Spring AOP原理及源码学习</title>
+    <link href="https://fate-re-zero.github.io/2021/03/08/Spring-AOP%E5%8E%9F%E7%90%86%E5%8F%8A%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://fate-re-zero.github.io/2021/03/08/Spring-AOP%E5%8E%9F%E7%90%86%E5%8F%8A%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/</id>
+    <published>2021-03-08T10:50:12.000Z</published>
+    <updated>2021-03-10T13:13:04.172Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;AOP底层原理之一（动态代理Demo）：&quot;&gt;&lt;a href=&quot;#AOP底层原理之一（动态代理Demo）：&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="AOP" scheme="https://fate-re-zero.github.io/tags/AOP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring MVC 源码学习</title>
+    <link href="https://fate-re-zero.github.io/2021/03/08/Spring-MVC-%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://fate-re-zero.github.io/2021/03/08/Spring-MVC-%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/</id>
+    <published>2021-03-08T10:39:49.000Z</published>
+    <updated>2021-03-11T02:07:08.369Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Spring MVC请求处理的流程(以下源码中注释了每一步干了那些事情)&lt;br&gt;&lt;img src=&quot;/images/MVC%E6%89%A7%E8%A1%8C%E6%B5%81%E7%A8%8B.jpg&quot;&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight</summary>
+        
+      
+    
+    
+    
+    
+    <category term="MVC" scheme="https://fate-re-zero.github.io/tags/MVC/"/>
+    
+  </entry>
   
   <entry>
     <title>李祥，My First Blog</title>
@@ -50,6 +131,31 @@
     <category term="Elasticsearch" scheme="https://fate-re-zero.github.io/tags/Elasticsearch/"/>
     
     <category term="rabbitmq" scheme="https://fate-re-zero.github.io/tags/rabbitmq/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>工厂 + 策略 + 模板方法模式实际应用场景</title>
+    <link href="https://fate-re-zero.github.io/2021/02/17/%E5%B7%A5%E5%8E%82-%E7%AD%96%E7%95%A5-%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF/"/>
+    <id>https://fate-re-zero.github.io/2021/02/17/%E5%B7%A5%E5%8E%82-%E7%AD%96%E7%95%A5-%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF/</id>
+    <published>2021-02-17T02:51:20.000Z</published>
+    <updated>2021-03-09T12:43:45.909Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;问题场景：项目中需要实现PC端和APP端推广二维码的功能，其实采用一种简单的实现方式就是使用if-else判断是使用PC端还APP端的逻辑，这种做法虽然可以实现，但是如果再加上Mac端，H5端等等就需要在原代码上添加很多的if,代码看起来很不优雅而且修改了原代码，基于对修改</summary>
+        
+      
+    
+    
+    
+    <category term="设计模式" scheme="https://fate-re-zero.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    
+    <category term="设计模式" scheme="https://fate-re-zero.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   
